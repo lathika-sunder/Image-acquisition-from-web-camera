@@ -39,7 +39,7 @@ Display the image until the loop gets over
 ## Program:
 
 ### Developed By: LATHIKA SUNDER
-### Register No: 212222230054
+### Register No: 212221230054
 
 
 ## i) Write the frame as JPG file
